@@ -157,7 +157,7 @@ tail -100 ./log/codis-fe.log.2017-04-08
 ```
 2017/04/08 16:12:13 main.go:100: [WARN] set ncpu = 1
 2017/04/08 16:12:13 main.go:103: [WARN] set listen = 0.0.0.0:9090
-2017/04/08 16:12:13 main.go:115: [WARN] set assets = /home/codis/go/src/github.com/CodisLabs/codis/admin/../bin/assets
+2017/04/08 16:12:13 main.go:115: [WARN] set assets = /home/codis/go/src/github.com/rentiansheng/codis/admin/../bin/assets
 2017/04/08 16:12:13 main.go:153: [WARN] set --filesystem = /tmp/codis
 ```
 

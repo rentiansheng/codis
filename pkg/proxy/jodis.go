@@ -8,9 +8,9 @@ import (
 	"sync"
 	"time"
 
-	"github.com/CodisLabs/codis/pkg/models"
-	"github.com/CodisLabs/codis/pkg/utils/errors"
-	"github.com/CodisLabs/codis/pkg/utils/log"
+	"github.com/rentiansheng/codis/pkg/models"
+	"github.com/rentiansheng/codis/pkg/utils/errors"
+	"github.com/rentiansheng/codis/pkg/utils/log"
 )
 
 var ErrClosedJodis = errors.New("use of closed jodis")

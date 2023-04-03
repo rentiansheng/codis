@@ -12,11 +12,11 @@ import (
 	"sync"
 	"time"
 
-	"github.com/CodisLabs/codis/pkg/proxy/redis"
-	"github.com/CodisLabs/codis/pkg/utils/errors"
-	"github.com/CodisLabs/codis/pkg/utils/log"
-	"github.com/CodisLabs/codis/pkg/utils/math2"
-	"github.com/CodisLabs/codis/pkg/utils/sync2/atomic2"
+	"github.com/rentiansheng/codis/pkg/proxy/redis"
+	"github.com/rentiansheng/codis/pkg/utils/errors"
+	"github.com/rentiansheng/codis/pkg/utils/log"
+	"github.com/rentiansheng/codis/pkg/utils/math2"
+	"github.com/rentiansheng/codis/pkg/utils/sync2/atomic2"
 )
 
 const (

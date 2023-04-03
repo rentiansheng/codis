@@ -8,11 +8,11 @@ import (
 	"sync"
 	"time"
 
-	"github.com/CodisLabs/codis/pkg/models"
-	"github.com/CodisLabs/codis/pkg/utils"
-	"github.com/CodisLabs/codis/pkg/utils/errors"
-	"github.com/CodisLabs/codis/pkg/utils/log"
-	"github.com/CodisLabs/codis/pkg/utils/math2"
+	"github.com/rentiansheng/codis/pkg/models"
+	"github.com/rentiansheng/codis/pkg/utils"
+	"github.com/rentiansheng/codis/pkg/utils/errors"
+	"github.com/rentiansheng/codis/pkg/utils/log"
+	"github.com/rentiansheng/codis/pkg/utils/math2"
 )
 
 const MaxSlotNum = models.MaxSlotNum

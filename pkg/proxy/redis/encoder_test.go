@@ -10,7 +10,7 @@ import (
 	"strconv"
 	"testing"
 
-	"github.com/CodisLabs/codis/pkg/utils/assert"
+	"github.com/rentiansheng/codis/pkg/utils/assert"
 )
 
 var tmap = make(map[int64][]byte)

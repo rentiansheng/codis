@@ -16,10 +16,10 @@ import (
 
 	"github.com/docopt/docopt-go"
 
-	"github.com/CodisLabs/codis/pkg/models"
-	"github.com/CodisLabs/codis/pkg/topom"
-	"github.com/CodisLabs/codis/pkg/utils"
-	"github.com/CodisLabs/codis/pkg/utils/log"
+	"github.com/rentiansheng/codis/pkg/models"
+	"github.com/rentiansheng/codis/pkg/topom"
+	"github.com/rentiansheng/codis/pkg/utils"
+	"github.com/rentiansheng/codis/pkg/utils/log"
 )
 
 func main() {

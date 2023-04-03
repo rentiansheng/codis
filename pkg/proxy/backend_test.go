@@ -11,8 +11,8 @@ import (
 	"testing"
 	"time"
 
-	"github.com/CodisLabs/codis/pkg/proxy/redis"
-	"github.com/CodisLabs/codis/pkg/utils/assert"
+	"github.com/rentiansheng/codis/pkg/proxy/redis"
+	"github.com/rentiansheng/codis/pkg/utils/assert"
 )
 
 func newConnPair(config *Config) (*redis.Conn, *BackendConn) {

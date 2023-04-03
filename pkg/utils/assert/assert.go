@@ -3,7 +3,7 @@
 
 package assert
 
-import "github.com/CodisLabs/codis/pkg/utils/log"
+import "github.com/rentiansheng/codis/pkg/utils/log"
 
 func Must(b bool) {
 	if b {

@@ -13,8 +13,8 @@ import (
 
 	"github.com/samuel/go-zookeeper/zk"
 
-	"github.com/CodisLabs/codis/pkg/utils/errors"
-	"github.com/CodisLabs/codis/pkg/utils/log"
+	"github.com/rentiansheng/codis/pkg/utils/errors"
+	"github.com/rentiansheng/codis/pkg/utils/log"
 )
 
 var ErrClosedClient = errors.New("use of closed zk client")

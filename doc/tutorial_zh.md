@@ -61,7 +61,7 @@ Codis 3.x 由以下组件组成：
 
 ## 0. 下载与编译
 
-### 下载[release binary](https://github.com/CodisLabs/codis/releases)文件安装
+### 下载[release binary](https://github.com/rentiansheng/codis/releases)文件安装
 如果是重要的生产环境使用，尽量不要选择alpha、rc版本。
 根据自己的部署平台，选择相应的文件下载即可。
 
@@ -182,7 +182,7 @@ tail -100 ./log/codis-fe.log.2017-04-08
 ```
 2017/04/08 16:12:13 main.go:100: [WARN] set ncpu = 1
 2017/04/08 16:12:13 main.go:103: [WARN] set listen = 0.0.0.0:9090
-2017/04/08 16:12:13 main.go:115: [WARN] set assets = /home/codis/go/src/github.com/CodisLabs/codis/admin/../bin/assets
+2017/04/08 16:12:13 main.go:115: [WARN] set assets = /home/codis/go/src/github.com/rentiansheng/codis/admin/../bin/assets
 2017/04/08 16:12:13 main.go:153: [WARN] set --filesystem = /tmp/codis
 ```
 

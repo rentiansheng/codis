@@ -15,10 +15,10 @@ import (
 	"strconv"
 	"time"
 
-	"github.com/CodisLabs/codis/pkg/utils/errors"
-	"github.com/CodisLabs/codis/pkg/utils/log"
-	"github.com/CodisLabs/codis/pkg/utils/sync2/atomic2"
-	"github.com/CodisLabs/codis/pkg/utils/trace"
+	"github.com/rentiansheng/codis/pkg/utils/errors"
+	"github.com/rentiansheng/codis/pkg/utils/log"
+	"github.com/rentiansheng/codis/pkg/utils/sync2/atomic2"
+	"github.com/rentiansheng/codis/pkg/utils/trace"
 )
 
 const (

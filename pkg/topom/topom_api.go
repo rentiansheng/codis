@@ -17,11 +17,11 @@ import (
 	"github.com/martini-contrib/gzip"
 	"github.com/martini-contrib/render"
 
-	"github.com/CodisLabs/codis/pkg/models"
-	"github.com/CodisLabs/codis/pkg/utils/errors"
-	"github.com/CodisLabs/codis/pkg/utils/log"
-	"github.com/CodisLabs/codis/pkg/utils/redis"
-	"github.com/CodisLabs/codis/pkg/utils/rpc"
+	"github.com/rentiansheng/codis/pkg/models"
+	"github.com/rentiansheng/codis/pkg/utils/errors"
+	"github.com/rentiansheng/codis/pkg/utils/log"
+	"github.com/rentiansheng/codis/pkg/utils/redis"
+	"github.com/rentiansheng/codis/pkg/utils/rpc"
 )
 
 type apiServer struct {

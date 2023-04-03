@@ -6,9 +6,9 @@ package topom
 import (
 	"testing"
 
-	"github.com/CodisLabs/codis/pkg/models"
-	"github.com/CodisLabs/codis/pkg/utils/assert"
-	"github.com/CodisLabs/codis/pkg/utils/log"
+	"github.com/rentiansheng/codis/pkg/models"
+	"github.com/rentiansheng/codis/pkg/utils/assert"
+	"github.com/rentiansheng/codis/pkg/utils/log"
 )
 
 func newApiClient(t *Topom) *ApiClient {

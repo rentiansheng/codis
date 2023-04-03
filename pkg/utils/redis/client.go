@@ -11,8 +11,8 @@ import (
 	"sync"
 	"time"
 
-	"github.com/CodisLabs/codis/pkg/utils/errors"
-	"github.com/CodisLabs/codis/pkg/utils/math2"
+	"github.com/rentiansheng/codis/pkg/utils/errors"
+	"github.com/rentiansheng/codis/pkg/utils/math2"
 
 	redigo "github.com/garyburd/redigo/redis"
 )

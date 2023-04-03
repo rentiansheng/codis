@@ -6,8 +6,8 @@ package bytesize
 import (
 	"testing"
 
-	"github.com/CodisLabs/codis/pkg/utils/assert"
-	"github.com/CodisLabs/codis/pkg/utils/errors"
+	"github.com/rentiansheng/codis/pkg/utils/assert"
+	"github.com/rentiansheng/codis/pkg/utils/errors"
 )
 
 func TestByteSize(t *testing.T) {

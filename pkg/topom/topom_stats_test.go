@@ -10,10 +10,10 @@ import (
 	"testing"
 	"time"
 
-	"github.com/CodisLabs/codis/pkg/models"
-	"github.com/CodisLabs/codis/pkg/proxy/redis"
-	"github.com/CodisLabs/codis/pkg/utils/assert"
-	"github.com/CodisLabs/codis/pkg/utils/log"
+	"github.com/rentiansheng/codis/pkg/models"
+	"github.com/rentiansheng/codis/pkg/proxy/redis"
+	"github.com/rentiansheng/codis/pkg/utils/assert"
+	"github.com/rentiansheng/codis/pkg/utils/log"
 )
 
 func TestProxyStats(x *testing.T) {
